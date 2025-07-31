@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+title: Simply Vending
+description: Smart. Simple. Always Stocked.
+theme: jekyll-theme-cayman
+
+# Optional for better control
+show_downloads: false
+google_analytics:
+
