@@ -3,7 +3,7 @@ layout: default
 title: Simply Vending
 ---
 
-<img src="banner.jpg" alt="Vending Machines" style="width: 100%; height: auto; margin-bottom: 2rem;" />
+<img src="vending.jpg" alt="Vending Machines" style="width: 100%; height: auto; margin-bottom: 2rem;" />
 
 # Simply Vending  
 **Smart. Simple. Always Stocked.**
