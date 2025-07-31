@@ -1,8 +1,53 @@
 ---
 layout: default
-title: My Awesome Site
+title: Simply Vending
 ---
 
-# Welcome!
+# Simply Vending  
+**Smart. Simple. Always Stocked.**
 
-This is my GitHub Pages site using the Cayman theme.
+From snacks and drinks to hygiene products and kids’ toys, Simply Vending delivers fully-managed vending machines designed for your unique environment. Whether you’re outfitting an office breakroom, a hospital waiting area, or a family-friendly venue, we’ve got the right machine for the right audience.
+
+---
+
+## Why Choose Simply Vending?
+
+- **Zero Cost to You**  
+  Free installation, restocking, and maintenance—always.
+
+- **Diverse Product Options**  
+  Offer snacks, beverages, personal care products, kids’ toys, or tech accessories, depending on your needs.
+
+- **Tailored for Your Space**  
+  Each machine is customised to fit the look, layout, and needs of your location.
+
+- **Cashless, Contactless Payments**  
+  Accepts debit and contactless payment options.
+
+- **Hands-Off Management**  
+  We monitor stock remotely and handle all servicing. You don’t lift a finger.
+
+---
+
+## We Serve a Variety of Locations:
+
+- Offices & Corporate Campuses  
+- Hospitals & Medical Clinics  
+- Doctor & Dental Waiting Rooms  
+- Daycares & Pediatric Centers  
+- Apartment Buildings  
+- Hotels & Lobbies  
+- Salons, Gyms & Spas  
+- Entertainment Venues  
+- Auto Dealerships & Service Centers
+
+---
+
+**Don’t Just Offer Snacks. Offer Convenience.**  
+Your visitors, staff, or customers deserve easy access to the things they need, right when they need them. Simply Vending helps you deliver just that.
+
+👉 [Request a Vending Machine](contact.md)
+
+---
+
+[See Our Services →](services.md)
