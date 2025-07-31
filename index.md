@@ -3,17 +3,13 @@ layout: default
 title: Simply Vending
 ---
 
-<!-- Custom Nav Bar -->
-<nav style="background: #0366d6; padding: 1rem; display: flex; justify-content: space-between; align-items: center; font-family: sans-serif;">
-  <div style="color: white; font-weight: bold; font-size: 1.2rem;">
-    Simply Vending
-  </div>
-  <div style="display: flex; gap: 1rem;">
-    <a href="index.md" style="color: white; text-decoration: none;">Home</a>
-    <a href="services.md" style="color: white; text-decoration: none;">Services</a>
-    <a href="contact.md" style="color: white; text-decoration: none;">Contact</a>
-  </div>
-</nav>
+<!-- Clean Inline Nav Bar -->
+<div style="text-align: center; margin-top: 1rem; margin-bottom: 2rem; font-family: system-ui, sans-serif;">
+  <a href="index.html" style="margin: 0 1rem; color: #0366d6; text-decoration: none;">Home</a>
+  <a href="services.html" style="margin: 0 1rem; color: #0366d6; text-decoration: none;">Services</a>
+  <a href="contact.html" style="margin: 0 1rem; color: #0366d6; text-decoration: none;">Contact</a>
+</div>
+
 
 <div style="background-image: url('banner.jpg'); background-size: cover; background-position: center; height: 300px; display: flex; align-items: center; justify-content: center; color: white; text-shadow: 0 0 5px #000; margin-bottom: 2rem;">
   <h1 style="font-size: 2.5rem;">Simply Vending</h1>
