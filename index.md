@@ -3,8 +3,11 @@ layout: default
 title: Simply Vending
 ---
 
+<img src="banner.jpg" alt="Vending Machines" style="width: 100%; height: auto; margin-bottom: 2rem;" />
+
 # Simply Vending  
 **Smart. Simple. Always Stocked.**
+...
 
 From snacks and drinks to hygiene products and kids’ toys, Simply Vending delivers fully-managed vending machines designed for your unique environment. Whether you’re outfitting an office breakroom, a hospital waiting area, or a family-friendly venue, we’ve got the right machine for the right audience.
 
