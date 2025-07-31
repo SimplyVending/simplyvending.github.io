@@ -3,7 +3,9 @@ layout: default
 title: Simply Vending
 ---
 
-<img src="vending.jpg" alt="Vending Machines" style="width: 100%; height: auto; margin-bottom: 2rem;" />
+<div style="background-image: url('banner.jpg'); background-size: cover; background-position: center; height: 300px; display: flex; align-items: center; justify-content: center; color: white; text-shadow: 0 0 5px #000; margin-bottom: 2rem;">
+  <h1 style="font-size: 2.5rem;">Simply Vending</h1>
+</div>
 
 # Simply Vending  
 **Smart. Simple. Always Stocked.**
